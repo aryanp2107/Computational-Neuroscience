@@ -1,33 +1,10 @@
-# 🧠 Neuroscience Notes
+# Neuroscience Notes
 
 A personal collection of notes, summaries, and study materials on neuroscience — covering topics from cellular and molecular neuroscience to cognitive and systems-level processes.
 
 ## About
 
-This repository contains my notes compiled while studying neuroscience concepts. The material spans foundational neurobiology, sensory systems, motor control, learning and memory, and higher cognitive functions. These notes are meant as a study reference and are organized by topic for easy navigation.
-
-## Repository Structure
-
-```
-.
-├── README.md
-└── notes/
-    ├── 01-neurons-and-glia/
-    ├── 02-membrane-potential/
-    ├── 03-synaptic-transmission/
-    ├── 04-sensory-systems/
-    ├── 05-motor-systems/
-    ├── 06-learning-and-memory/
-    ├── 07-emotion-and-motivation/
-    ├── 08-language-and-cognition/
-    └── ...
-```
-
-> Feel free to adapt the folder structure as the collection grows.
-
-## How to Use
-
-Browse the folders by topic, or use GitHub's search to find specific terms. Notes may include diagrams, key definitions, and concept summaries that are useful for review and exam preparation.
+This repository contains my notes compiled while studying neuroscience concepts. The material spans foundational neurobiology, sensory systems, motor control, learning and memory, and higher cognitive functions. 
 
 ## Acknowledgments & Credits
 
