@@ -4,7 +4,9 @@ A personal collection of notes, summaries, and study materials on neuroscience â
 
 ## About
 
-This repository contains my notes compiled while studying neuroscience concepts. The material spans foundational neurobiology, sensory systems, motor control, learning and memory, and higher cognitive functions. 
+This repository contains my notes compiled while studying neuroscience concepts. The material spans foundational neurobiology, sensory systems, motor control, learning and memory, and higher cognitive functions.
+
+![Brain Diagram](image.png)
 
 ## Acknowledgments & Credits
 
