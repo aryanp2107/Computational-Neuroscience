@@ -1,9 +1,8 @@
 # Computational Neuroscience Notes
 
-A personal knowledge base covering both biological neuroscience and computational neuroscience — studied in parallel to build a unified understanding of the brain from molecules to models.A collection of notes, summaries, and study materials.
+A personal knowledge base covering both biological neuroscience and computational neuroscience — to build a unified understanding of the brain comprising of notes, summaries, and study materials.
 
 ## About
-
 This repository contains my notes compiled while studying neuroscience concepts. The material spans foundational neurobiology, sensory systems, motor control, learning and memory, and higher cognitive functions.
 
 ![Brain Diagram](image.png)
