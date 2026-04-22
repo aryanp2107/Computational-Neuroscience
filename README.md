@@ -30,9 +30,6 @@ These notes draw heavily from the following MIT OpenCourseWare offerings:
 
 All course materials referenced are provided by [MIT OpenCourseWare](https://ocw.mit.edu/) under a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/). These notes are independently authored and not affiliated with or endorsed by MIT.
 
-## Disclaimer
-
-These are personal study notes and may contain errors or incomplete information. They are not a substitute for the original course materials, lectures, or textbooks. Always refer to primary sources for accuracy.
 
 ## License
 
